@@ -45,4 +45,4 @@ JAVASCRIPT
 
  # lICENSE 
  
- by MIT
+licensed by MIT
